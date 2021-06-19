@@ -7,7 +7,7 @@ export default makeStyles((theme) => ({
     flexDirection: 'row',
     alignItems: 'center',
     padding: '8px',
-    backgroundColor: '#00b386',
+    backgroundColor: '#009973',
   },
   brandContainer: {
     display: 'flex',
