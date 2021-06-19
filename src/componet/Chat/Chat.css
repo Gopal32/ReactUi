@@ -86,14 +86,15 @@
     flex: 0.90;
     border-radius: 30px;
     padding: 10px;
-
+    border-color: gray;
+    outline: none;
 
     color: #00b386;
 }
 
-.chat__footer>form>input:textarea {
-    color: #000;
-}
+
+    
+
 
 .chat__footer>form>button {
     border: none;
