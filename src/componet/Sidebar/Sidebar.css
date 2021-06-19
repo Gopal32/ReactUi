@@ -1,0 +1,15 @@
+.sidebar {
+    flex: 0.30;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar__chats {
+    flex: 1;
+    overflow: scroll;
+    background-color: white;
+}
+
+.sidebar__chats::-webkit-scrollbar {
+    display: none;
+}
